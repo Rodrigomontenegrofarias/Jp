@@ -5,11 +5,9 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
 
 trigger:
-<<<<<<< HEAD
 - master
-=======
 - main
->>>>>>> cf39f886cc87ae31f4e3e857289310366d338b16
+
 
 pool:
   vmImage: ubuntu-latest
