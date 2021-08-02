@@ -30,20 +30,18 @@
       "react-app/jest"
     ]
   },
-  "browserslist": {
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
+  
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "repository": "git+https://github.com/Rodrigomontenegrofarias/JParedes.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodrigomontenegrofarias/JParedes.git"
+  },
   "author": "rodrigo.montenegro <rodrigo.montenegro@alumnos.uv.cl>",
-  "license": "none",
+  "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/Rodrigomontenegrofarias/JParedes/issues"
   },
-  "homepage": "https://github.com/Rodrigomontenegrofarias/JParedes#readme"
+  "homepage": "https://github.com/Rodrigomontenegrofarias/JParedes#readme",
+  "devDependencies": {}
 }
