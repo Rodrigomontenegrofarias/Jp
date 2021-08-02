@@ -3,7 +3,9 @@
 //const src1 = '../../assets/images/LOGO.jpg'
 
 import React from "react";
-import '/Users/rodrigoMontenegro/Desktop/Trabajos react/pag/src/App.css';
+import '../../src/components/header.js';
+
+
 import { Link } from 'react-router-dom';
 
 
